@@ -1,0 +1,53 @@
+.messageBlock {
+
+}
+.img {
+    margin-left: 20px;
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    float: left;
+}
+
+.textBlock {
+    margin-left: 100px;
+    background: black;
+    max-width: 300px;
+    position: relative;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+.arrow {
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    border-right: 20px solid black;
+    z-index: 100;
+    left: -13px;
+    bottom: -6px;
+    transform: rotate(-28deg);
+}
+
+.name {
+    padding-top: 10px;
+    padding-left: 20px;
+    margin: 0;
+    color: blueviolet;
+    font-weight: bold;
+}
+.text {
+    padding: 5px 20px;
+    margin: 0 !important;
+    color: white;
+}
+.time {
+    color: aliceblue;
+    text-align: right;
+    margin: 4px;
+}
+
+.subTitle {
+    color: cornflowerblue;
+}

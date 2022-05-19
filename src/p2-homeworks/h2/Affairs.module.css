@@ -1,0 +1,17 @@
+
+.subTitle {
+    color: cornflowerblue;
+}
+
+.close {
+    margin-left: 0;
+}
+ span {
+    display: inline;
+}
+
+ .name {
+    color: cornflowerblue;
+     font-weight: bold;
+
+ }

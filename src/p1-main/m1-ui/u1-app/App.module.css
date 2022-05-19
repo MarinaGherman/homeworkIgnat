@@ -1,0 +1,13 @@
+@import '~antd/dist/antd.css';
+
+.App {
+    background-color: rgba(0, 191, 255, 0.08);
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.title {
+    color: cornflowerblue;
+    text-align: center;
+}
+
+

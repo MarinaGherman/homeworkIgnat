@@ -1,0 +1,15 @@
+.option {
+    color: red;
+    background: black;
+}
+
+.select {
+    margin-left: 12px;
+    appearance: none;
+    border: 15px inset cornflowerblue;
+    background-position: right .10em top 50%, 0 0;
+    background-color: cornflowerblue;
+    background-repeat: no-repeat,repeat;
+    background-size: .80em auto,100%;
+
+}

@@ -1,0 +1,46 @@
+.navBar {
+    display: inline-block;
+    position: relative;
+    left: -420px;
+    overflow: hidden;
+    transition: left 2s;
+}
+
+.navBar:hover {
+    left: 0;
+    background-color: transparent;
+}
+
+.navList {
+    display: inline-block;
+    text-decoration: none;
+    height: 60px;
+}
+
+.link {
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    padding: 10px 40px 20px 40px;
+    height: 25px;
+    position: relative;
+    top: 0;
+    transition: 0.4s;
+    margin-left: 2px;
+}
+.link:hover {
+    height: 40px;
+    color: white;
+}
+
+.red {
+    background: indianred;
+}
+.blue {
+    background: cornflowerblue;
+}
+.green{
+    background: mediumseagreen;
+}
